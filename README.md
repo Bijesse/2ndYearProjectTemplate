@@ -2,6 +2,9 @@
 
 ![image]()
 
+##Do Now 
+Begin this session by completing the [Do Now](doNow.md) activity.
+
 ##Scope
 
 
